@@ -76,6 +76,7 @@ export const GlobalStyle = createGlobalStyle`
         padding: 3rem;
         position: relative;
         border-radius: 0.25rem;
+        outline: transparent;
     }
 
     .react-modal-close{
